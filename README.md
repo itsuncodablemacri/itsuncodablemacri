@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Macri</h1>
 <h3 align="center">A passionate student/dev from Kerala</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gebwyd" alt="Profile Views" /> </p>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsuncodablemacri" alt="Profile Views" /> </p>  
 
 <p align="center">
   <a href="https://discord.com/users/562859302130286613">
