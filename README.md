@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/562859302130286613">
-     <img src="[https://discord.c99.nl/widget/theme-4/562859302130286613.png" alt="Macri#2277 ( 562859302130286613 )](https://discord.c99.nl/widget/theme-4/562859302130286613.png)"/>
+     <img src="https://discord.c99.nl/widget/theme-4/562859302130286613.png" alt="Macri#2277 ( 562859302130286613 )"/>
        </a>
 </p>
 
