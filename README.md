@@ -19,11 +19,11 @@
 
 - 💬 Ask me about **Nothing**
 
-- 📫 How to reach me **https://itsuncodablemacri.github.io/macri-web/**
+- 📫 How to reach me [Click here!](https://itsuncodablemacri.github.io/macri-web/)
 
-- 📄 Know about my experiences [https://itsuncodablemacri.github.io/projects-site/](https://itsuncodablemacri.github.io/projects-site/)
+- 📄 Know about my experiences [Click here!](https://itsuncodablemacri.github.io/projects-site/)
 
-- ⚡ Fun fact **I don't know anything**
+- ⚡ Fun fact **I'm human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
