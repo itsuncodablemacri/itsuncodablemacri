@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Rheox](https://discord.gg/sNjYtjyXHX)
 
-- 🌱 I’m currently learning **C,C++,CSS,HTML,JavaScript,etc**
+- 🌱 I’m currently learning **C,C++,CSS,HTML,JavaScript,Python,etc**
 
 - Contact me [Connect me](https://itsuncodablemacri.github.io/macri-web/)
 
