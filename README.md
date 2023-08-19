@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **C,C++,CSS,HTML,JavaScript,Python,etc**
 
-- Contact me [Connect me](https://itsuncodablemacri.github.io/macri-web/)
+- Contact me [Click here!!](https://itsuncodablemacri.github.io/macri-web/)
 
 - 👨‍💻 All of my projects are available at [Here](https://itsuncodablemacri.github.io/macri-web/)
 
-- 💬 Ask me about **Nothing**
+- 💬 Ask me about **What,when,where or any kind of doubts,if I know I will tell you or else google it!**
 
 - 📫 How to reach me [Click here!](https://itsuncodablemacri.github.io/macri-web/)
 
